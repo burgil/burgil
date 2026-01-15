@@ -167,5 +167,3 @@
 ---
 
 **burgil/burgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
-![Burgil's GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=burgil&repo=burgil&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=2)
