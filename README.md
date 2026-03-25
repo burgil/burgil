@@ -2,6 +2,8 @@
     <img src="https://avatars.githubusercontent.com/u/41600149?v=4" width="70" alt="Profile Picture of Burgil (burgil)" align="left">
 </a>
 
+Exefy Developers Verification
+
 # [🅱🆄🆁🅶🅸🅻](https://github.com/burgil)
 ## 𝕋𝔼ℂℍℕ𝕆𝕂𝕀ℕ𝔾, 𝕄𝔸𝕊𝕋𝔼ℝ 𝐎𝐅 𝐋𝐎𝐆𝐈𝐒𝐓𝐈𝐂𝐒, 𝕂𝕀ℂ𝕂 𝔸𝕊𝕊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 
